@@ -1,0 +1,6 @@
+rootProject.name = 'KoassaSpringPOC'
+include 'sgtech-koassa-api'
+include 'sgtech-koassa-db-impl'
+include 'sgtech-koassa-front'
+include 'sgtech-koassa-impl'
+include 'sgtech-koassa-rest'
